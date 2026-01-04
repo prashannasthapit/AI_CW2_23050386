@@ -1,6 +1,6 @@
 # Predicting Emergency Readmission of Discharged Heart Failure Patients
 
-**SIT Coursework 02 - Autumn Semester 2025 - Milestone 1**
+**1st SIT Coursework 02 - Autumn Semester 2025 - Milestone 1**
 
 | Field | Details |
 |-------|---------|
